@@ -3,6 +3,8 @@
 For running this project you need to download webdriver for Chrome from [here](https://sites.google.com/a/chromium.org/chromedriver/downloads)
 , find your chrome version and download the respective chromedriver.
 
+**Now put the chromedriver in your PATH by extracting the file if needed to extract.**
+
 ---
 
 **How to install and run it on your own machine**
