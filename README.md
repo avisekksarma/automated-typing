@@ -1,5 +1,7 @@
 # Automated-typing
 
+(Note: I could not go for more faster than in this program in singleplayer i dont know why, I think that the website wouldnot count for very faster or idk,
+I would be happy if someone finds out the problem.)
 For running this project you need to download webdriver for Chrome from [here](https://sites.google.com/a/chromium.org/chromedriver/downloads)
 , find your chrome version and download the respective chromedriver.
 
